@@ -9,8 +9,7 @@ A guide to help DAOs with how-to's including operations, onboarding contributors
 Built using [Docusaurus](https://docusaurus.io/).
 
 ## Screenshot
-
-<img width="1552" alt="homepage_sun nov 14" src="https://user-images.githubusercontent.com/94259795/141709950-8ec4c062-ce59-41dc-9ab8-50d0aacbb5fb.png">
+<img width="1552" alt="home_sun nov 14" src="https://user-images.githubusercontent.com/94259795/141714949-37a8c0a8-a5d2-480a-b628-7310e96316f4.png">
 
 ## How to Contribute
 
