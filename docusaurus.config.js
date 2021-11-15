@@ -6,15 +6,14 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "The Infinity Pool",
-  tagline:
-    "An open source, opinionated DAO operations guide using Orca Protocol.",
+  title: "The Infinity Office",
+  tagline: "An open source, opinionated DAO operations guide",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  organizationName: "∞ Pool", // Usually your GitHub org/user name.
-  projectName: "∞ Pool", // Usually your repo name.
+  organizationName: "∞ Office", // Usually your GitHub org/user name.
+  projectName: "∞ Office", // Usually your repo name.
   favicon: "/img/favicon.ico",
 
   presets: [
@@ -43,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "∞ Pool",
+        title: "∞ Office",
         items: [
           { to: "/", label: "Overview", position: "left" },
           {
